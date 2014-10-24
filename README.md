@@ -1,5 +1,6 @@
 for-home-works
 ==============
+[![Build Status](https://travis-ci.org/2gisprojectT/for-homeworks.svg?branch=master)](https://travis-ci.org/2gisprojectT/for-homeworks)
 
 Репозиторий для отправки домашних заданий
 
